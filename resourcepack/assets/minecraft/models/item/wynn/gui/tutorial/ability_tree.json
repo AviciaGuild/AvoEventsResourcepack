@@ -1,0 +1,1 @@
+{"textures":{"layer0":"wynn/gui/tutorial","layer1":"wynn/gui/character_info/ability_tree"},"elements":[{"from":[-16,-16,7],"to":[32,32,7],"faces":{"north":{"uv":[0,0,16,16],"texture":"#layer0","tintindex":0}}},{"from":[-8,-8,8],"to":[24,24,8],"faces":{"north":{"uv":[0,0,16,16],"texture":"#layer1"}}}],"gui_light":"front","display":{"gui":{"rotation":[0,180,0]}}}

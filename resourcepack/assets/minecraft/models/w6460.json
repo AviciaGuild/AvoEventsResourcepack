@@ -1,0 +1,1 @@
+{"display":{"head":{"scale":[4,4,4],"translation":[-16,-22.4,-16]}},"elements":[{"faces":{"down":{"texture":"#0","uv":[13.5,2,15.5,2.25]},"east":{"texture":"#0","uv":[13.25,1,13.5,2]},"up":{"texture":"#0","uv":[13.5,0.75,15.5,1]},"west":{"texture":"#0","uv":[15.5,1,15.75,2]}},"from":[8,8,8],"shade":false,"to":[4.8,9.6,8.4]}],"overrides":[],"textures":{"0":"item/w821551957_0"}}

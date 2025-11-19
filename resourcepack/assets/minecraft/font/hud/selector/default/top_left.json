@@ -1,0 +1,1 @@
+{"providers":[{"type":"reference","id":"space"},{"type":"space","advances":{" ":4,"‌":0}},{"type":"bitmap","file":"font/hud/selector/default/top_left/wynncraft.png","ascent":-64,"height":96,"chars":["","\u0000\u0000"]},{"type":"bitmap","file":"font/hud/selector/default/top_left/blizzard.png","ascent":-72,"height":96,"chars":["","\u0000\u0000"]}]}

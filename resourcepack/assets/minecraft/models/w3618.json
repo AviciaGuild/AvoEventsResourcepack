@@ -1,0 +1,1 @@
+{"display":{"gui":{"translation":[24,24,24]},"head":{"scale":[4,4,4],"translation":[80,73.6,80]}},"elements":[{"faces":{"east":{"texture":"#0","uv":[5.4375,7,4.75,7.625]},"west":{"texture":"#0","uv":[4.75,7,5.4375,7.625]}},"from":[-16,-16,-16],"shade":false,"to":[-16,-11.799999,-11.45]}],"overrides":[],"textures":{"0":"item/w1926467980_2"}}

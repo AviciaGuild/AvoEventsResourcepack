@@ -1,0 +1,1 @@
+{"display":{"gui":{"translation":[24,24,24]},"head":{"scale":[4,4,4],"translation":[80,73.6,80]}},"elements":[{"faces":{"east":{"texture":"#0","uv":[13.9296875,0.03125,14.0078125,0.125]},"west":{"texture":"#0","uv":[14.0078125,0.03125,13.9296875,0.125]}},"from":[-16,-16,-16],"shade":false,"to":[-16,-15.4,-15.5]}],"overrides":[],"textures":{"0":"item/w978060411_1"}}

@@ -1,0 +1,1 @@
+{"parent":"item/wynn/template/handheld_rod","textures":{"layer0":"wynn/housing/tool/handsaw"},"display":{"firstperson_righthand":{"rotation":[0,90,25],"translation":[1,2.6,0.8],"scale":[0.68,0.68,0.68]},"firstperson_lefthand":{"rotation":[0,-90,-25],"translation":[1,2.6,0.8],"scale":[0.68,0.68,0.68]}}}

@@ -1,0 +1,1 @@
+{"parent":"item/wynn/template/button/48","textures":{"layer0":"wynn/gui/character_info/ability_tree","layer1":"wynn/gui/character_info/blink"},"display":{"gui":{"rotation":[0,0,0],"translation":[0.5,0,0],"scale":[2,2,2]},"fixed":{"rotation":[0,0,0],"translation":[0,0,-1],"scale":[2,2,2.05]}}}

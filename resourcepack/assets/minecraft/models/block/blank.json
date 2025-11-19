@@ -1,0 +1,1 @@
+{"textures":{"particle":"block_variants/oak_planks_flat"},"elements":[{"from":[0,0,0],"to":[0,0,0],"faces":{"down":{"uv":[0,0,0,0],"texture":"#particle"}}}]}

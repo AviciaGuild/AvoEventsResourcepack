@@ -1,0 +1,27 @@
+{
+    "targets": {
+        "swap": {}
+    },
+    "passes": [
+        {
+            "program": "post/entity_outline",
+            "inputs": [
+                {
+                    "sampler_name": "In",
+                    "target": "entity_outline"
+                }
+            ],
+            "output": "swap"
+        },
+        {
+            "program": "post/blit",
+            "inputs": [
+                {
+                    "sampler_name": "In",
+                    "target": "swap"
+                }
+            ],
+            "output": "entity_outline"
+        }
+    ]
+}

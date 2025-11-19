@@ -1,0 +1,1 @@
+{"parent":"item/wynn/template/handheld","textures":{"0":"#all","particle":"#all"},"display":{"gui":{"rotation":[30,225,0],"scale":[0.625,0.625,0.625]},"head":{"translation":[0,-30.5,0],"scale":[1.6,1.6,1.6]}}}
